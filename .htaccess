@@ -1,0 +1,20 @@
+RewriteEngine On
+Options -Indexes 
+
+RewriteCond %{REQUEST_URI} !^/website
+RewriteRule ^$ /website/$1 [L]
+RewriteRule ^index.html$ /website/$1 [L]
+RewriteRule ^index.php$ /website/$1 [L] 
+##RewriteRule ^cgu.html$ /website/$1 [L]
+##RewriteRule ^confidentialite.html$ /website/$1 [L]
+##RewriteRule ^mentions_legales.html$ /website/$1 [L]
+##RewriteRule ^credits.html$ /website/$1 [L]
+
+
+RewriteRule ^docs$ /swagger-ui-master/dist/#/ [L]
+RewriteRule ^credits$ credits.html [L]
+RewriteRule ^confidentialite$ confidentialite.html [L]
+RewriteRule ^cgu$ cgu.html [L]
+RewriteRule ^mentions_legales$ mentions_legales.html [L]
+
+

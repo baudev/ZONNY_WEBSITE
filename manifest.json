@@ -1,0 +1,19 @@
+{
+  "name": "ZONNY - L'application d'évènements instantanés et éphémères",
+  "short_name": "ZONNY",
+  "icons": [
+    {
+      "src": "../website/favicon/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "me.zonny.app" 
+    }
+  ],
+  "start_url": "index.html"
+}
