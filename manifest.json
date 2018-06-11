@@ -1,7 +1,7 @@
 {
   "name": "ZONNY - L'application d'évènements instantanés et éphémères",
   "short_name": "ZONNY",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "icons": [
     {
       "src": "../website/favicon/favicon-192.png",
