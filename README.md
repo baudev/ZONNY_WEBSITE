@@ -1,32 +1,42 @@
+<p align="center">
+	<img src="https://cdn.pbrd.co/images/Hprt7SE.png" />
+</p>
 
-# SITE WEB - ZONNY
+ZONNY is a mobile application allowing the creation of ephemeral and spontaneous events with the user's friends. More about on [https://zonny.me](https://zonny.me)
 
-ZONNY est une application mobile permettant la création d'évènements spontanés et éphémères avec ses amis. Découvrez en plus sur [https://zonny.me](https://zonny.me)
+| [Demo](#demo) | [Contribute](#contribute) | [Remarks](#remarks) | [License](#license) |
+| :----------- | :------: | :------: | ------------: |
+
+**[ :speech_balloon: Questions / Comments? Join us on Discord!](https://discord.gg/P3szxKG)**
 ## DEMO
 
-Retrouvez la version en ligne du site sur [https://zonny.me](https://zonny.me)
+The current version of the website is accessible on [https://zonny.me](https://zonny.me)
+<p align="center">
+	<img src="https://cdn.pbrd.co/images/HprtOuS.png" />
+</p>
 
-## CONTRIBUER
+## CONTRIBUTE
 
-Vous voulez contribuer ? Nous acceptons les `Merges Requests` avec plaisir !
-Envoyez votre `Merge Request` sur la branche [dev](https://gitlab.com/baudev/ZONNY_WEBSITE/tree/master/dev).
+You want to contribute? We accept `Pull Requests` with pleasure!
+Send your `Pull Request` on the [dev](https://github.com/baudev/ZONNY_WEBSITE/tree/dev) branch.
 
-## COMMENTAIRES
+## REMARKS
 
-S'il vous plaît reportez les bugs et autres problèmes en [créant une nouvelle `issue`Gitlab](https://gitlab.com/baudev/ZONNY_WEBSITE/issues/new).
 
-Essayez de respecter la structure suivante le plus possible :
+If there is any bug or other problem, please report it by [creating a new GitLab issue](https://github.com/baudev/ZONNY_WEBSITE/issues/new).
+
+Try respecting the following structure as possible:
 
 ```
-## Comportement attendu ##
+## Expected behavior ##
 
-## Comportement obtenu ##
+## Obtained behavior ##
 
-Configuration (optionnel)
-- Version du site :
+Configuration (optional)
+- Website version :
 ```
 
-## LICENCE
+## LICENSE
 
 Copyright (c) 2018, ZONNY
 All rights reserved. 
