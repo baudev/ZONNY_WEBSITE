@@ -1,0 +1,21 @@
+{
+  "name": "ZONNY WEBSITE",
+  "description": "Website of the ZONNY application",
+  "version": "0.2.1",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ZONNY TEAM",
+      "email": "contact@zonny.me"
+    }
+  ],
+  "support": {
+    "email": "contact@zonny.me"
+  },
+  "require": {
+    "melbahja/http2-pusher": "*"
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}
